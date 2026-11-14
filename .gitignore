@@ -1,3 +1,4 @@
 .env
 __pycache__
 buggy.py.bak
+.DS_Store
